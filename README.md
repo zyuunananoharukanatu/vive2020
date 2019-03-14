@@ -1,6 +1,4 @@
-# README
-
-vibrate for 20-20-20 eye
+# vibrate for 20-20-20 eye
 
 20-20-20 eye のためにバイブ鳴らして通知する
 
