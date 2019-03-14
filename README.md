@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+vibrate for 20-20-20 eye
 
-Things you may want to cover:
+20-20-20 eye のためにバイブ鳴らして通知する
 
-* Ruby version
+なるべく地味目に、周りに気づかれない感じにできたらいいな
 
-* System dependencies
+バイブはJavaScriptで鳴らす予定
 
-* Configuration
+環境指定できるようにして、pcならプッシュ通知、とかも後々追加したい
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
